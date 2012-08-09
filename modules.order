@@ -1,0 +1,2 @@
+kernel/crypto/ansi_cprng.ko
+kernel/drivers/hid/hid-logitech-dj.ko

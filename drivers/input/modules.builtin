@@ -1,0 +1,8 @@
+kernel/drivers/input/input-core.ko
+kernel/drivers/input/ff-memless.ko
+kernel/drivers/input/matrix-keymap.ko
+kernel/drivers/input/evdev.ko
+kernel/drivers/input/joystick/xpad.ko
+kernel/drivers/input/keyboard/omap4-keypad.ko
+kernel/drivers/input/misc/uinput.ko
+kernel/drivers/input/touchscreen/atmel_mxt_ts.ko

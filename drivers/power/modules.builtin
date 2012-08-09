@@ -1,0 +1,2 @@
+kernel/drivers/power/pda_power.ko
+kernel/drivers/power/max17040_battery.ko

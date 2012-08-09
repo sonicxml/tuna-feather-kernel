@@ -1,0 +1,2 @@
+kernel/drivers/video/omap2/dss/omapdss.ko
+kernel/drivers/video/omap2/omapfb/omapfb.ko
