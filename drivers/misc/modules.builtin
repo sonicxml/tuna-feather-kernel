@@ -1,0 +1,7 @@
+kernel/drivers/misc/bmp180.ko
+kernel/drivers/misc/fsa9480.ko
+kernel/drivers/misc/leds-an30259a.ko
+kernel/drivers/misc/inv_mpu/mpu3050.ko
+kernel/drivers/misc/inv_mpu/timerirq.ko
+kernel/drivers/misc/inv_mpu/accel/inv_mpu_bma250.ko
+kernel/drivers/misc/inv_mpu/compass/inv_mpu_yas530.ko

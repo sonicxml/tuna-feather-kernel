@@ -1,0 +1,2 @@
+kernel/security/keys/trusted.ko
+kernel/security/keys/encrypted-keys/encrypted-keys.ko
